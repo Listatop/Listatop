@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-Lista (satelite)
+1-Lista (satelite)
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/bJKYsgSq/Dise-o-sin-t-tulo-1.png" group-title="ESPAÑA TDT ▶️",LA 1 ᶠᴴᴰ
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/737
 #EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 ᶠᴴᴰ" tvg-logo="https://i.postimg.cc/XqS3VvtJ/Dise-o-sin-t-tulo-4.png" group-title="ESPAÑA TDT ▶️",LA 2 ᶠᴴᴰ
@@ -724,7 +724,24 @@ http://pinkpanther.uk:8080/movie/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EA
 
 
 
-lista pm url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2-lista pm url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #1 (NASCAR Las Vegas)
 acestream://78f6f3d1ad7a003d4d26f069f09314ea79aa004b
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #2 (Argentina-Ecuador)
