@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="1 Parte" tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="REAL SOCIEDAD VS BENFICA",Champions:Real Sociedad vs Benfica
+https://fviplions.com/f/vutu0jkx2q8b, 
+
