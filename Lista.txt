@@ -1,1 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://iptvx.one/EPG"
+
+
+#EXTINF:-1 tvg-logo="" group-title="Eventos" tvg-id="Canal 1", Canal 1
+acestream://db42b6826943198e4b51b70955df598eb7342b35
+#EXTINF:-1 tvg-logo="" group-title="Eventos" tvg-id="Canal 2", Canal 2
+acestream://fb13a548c427d104d618d61b87cc66c47805a325
